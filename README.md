@@ -1,5 +1,10 @@
 # cpp-car-rental-system
 
+# Introduction
+Car rental companies need a reliable solution to save time through automation and make it easier for a customer to rent a car. The proposed solution is a car rental system that has three types of user roles: admin, employee, and customer. Customers need to be able to easily create an account in order to make a car reservation as well as cancel an existing reservation. Employees need to be able to create, read, update and delete car listings and view or cancel existing reservations. Admins need to have all the privileges employees have in addition to creating and removing employee accounts.
+
+# User interface
+## 1. Main menu
 ```cpp
 ===================================
 ||                               ||
@@ -16,7 +21,7 @@
 -----------------------------------
 [Input] Main Menu Item:
 ```
-
+## 2. Manage customers
 ```cpp
 |_*****************************************_ |
 |_                CUSTOMER LIST            _ |
@@ -43,7 +48,7 @@
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-
+## 3. Manage vehicles
 ```cpp
 |_*****************************************_ |
 |_                VEHICLES LIST            _ |
@@ -72,7 +77,7 @@
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-
+## 4. Manage reservations
 ```cpp
 |_*****************************************_ |
 |_            RESERVATIONS LIST            _ |
@@ -97,7 +102,7 @@
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-
+## 5. Show all databases
 ```cpp
 |_*****************************************_ |
 |_                CUSTOMER LIST            _ |
