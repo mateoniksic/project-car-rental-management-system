@@ -1,10 +1,13 @@
-# cpp-car-rental-system
+# CAR RENTAL MANAGEMENT SYSTEM
 
-# Introduction
 Car rental companies need a reliable solution to save time through automation and make it easier for a customer to rent a car. The proposed solution is a car rental system that has options to manage customers, vehicles and reservations.
 
-# User interface
-## 1. Main menu
+## Instructions to start the application
+1. Clone (download) the repository
+2. Run .exe file in CarRentalSystemEXE.rar
+
+## Application preview
+### 1. Main menu
 ```cpp
 ===================================
 ||                               ||
@@ -21,7 +24,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Main Menu Item:
 ```
-## 2. Manage customers
+### 2. Manage customers
 ```cpp
 |_*****************************************_ |
 |_                CUSTOMER LIST            _ |
@@ -48,7 +51,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-## 3. Manage vehicles
+### 3. Manage vehicles
 ```cpp
 |_*****************************************_ |
 |_                VEHICLES LIST            _ |
@@ -77,7 +80,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-## 4. Manage reservations
+### 4. Manage reservations
 ```cpp
 |_*****************************************_ |
 |_            RESERVATIONS LIST            _ |
@@ -102,7 +105,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-## 5. Show all databases
+### 5. Show all databases
 ```cpp
 |_*****************************************_ |
 |_                CUSTOMER LIST            _ |
