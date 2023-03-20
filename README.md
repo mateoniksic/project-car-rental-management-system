@@ -1,13 +1,13 @@
-# CAR RENTAL MANAGEMENT SYSTEM
-
+![Social Preview](https://user-images.githubusercontent.com/57192709/226383305-979811e4-2512-4388-b543-a9f861975a42.png)
+# What is car rental management system?
 Car rental companies need a reliable solution to save time through automation and make it easier for a customer to rent a car. The proposed solution is a car rental system that has options to manage customers, vehicles and reservations.
 
-## Instructions to start the application
-1. Clone (download) the repository
+# How to start the application?
+1. **Clone repository**
 2. Run .exe file in CarRentalSystemEXE.rar
 
-## Application preview
-### 1. Main menu
+# Sneak peek
+### Main menu
 ```cpp
 ===================================
 ||                               ||
@@ -24,7 +24,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Main Menu Item:
 ```
-### 2. Manage customers
+### Manage customers
 ```cpp
 |_*****************************************_ |
 |_                CUSTOMER LIST            _ |
@@ -51,7 +51,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-### 3. Manage vehicles
+### Manage vehicles
 ```cpp
 |_*****************************************_ |
 |_                VEHICLES LIST            _ |
@@ -80,7 +80,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-### 4. Manage reservations
+### Manage reservations
 ```cpp
 |_*****************************************_ |
 |_            RESERVATIONS LIST            _ |
@@ -105,7 +105,7 @@ Car rental companies need a reliable solution to save time through automation an
 -----------------------------------
 [Input] Sub Menu Item:
 ```
-### 5. Show all databases
+### Show all databases
 ```cpp
 |_*****************************************_ |
 |_                CUSTOMER LIST            _ |
