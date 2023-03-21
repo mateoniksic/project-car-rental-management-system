@@ -1,4 +1,4 @@
-![Social Preview](https://user-images.githubusercontent.com/57192709/226383305-979811e4-2512-4388-b543-a9f861975a42.png)
+![Social Preview](https://user-images.githubusercontent.com/57192709/226618884-bccd9a07-3bf1-4afb-9a0b-3607ac6536b7.png)
 # What is car rental management system?
 Car rental companies need a reliable solution to save time through automation and make it easier for a customer to rent a car. The proposed solution is a car rental system that has options to manage customers, vehicles and reservations.
 
